@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/3/w3.css">
+<body>
+
+<!-- Content will go here -->
+<!-- Navigation -->
+<nav class="w3-bar w3-black">
+  <a href="#HOME" class="w3-button w3-bar-item">Home</a>
+  <a href="#ABOUT" class="w3-button w3-bar-item">Band</a>
+  <a href="#STUDIOS" class="w3-button w3-bar-item">Tour</a>
+  <a href="#BROADCASTERS" class="w3-button w3-bar-item">Contact</a>
+  <a href="#KIDSCREEN" class="w3-button w3-bar-item">Contact</a>
+  <a href="#BOOKING" class="w3-button w3-bar-item">Contact</a>
+  <a href="#CONTACT US" class="w3-button w3-bar-item">Contact</a>
+</nav>
+</body>
+
+</html>
